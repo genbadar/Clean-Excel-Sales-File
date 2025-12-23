@@ -11,6 +11,7 @@ These files are suitable for:
 ## Practice Files
 
 - **Sample Sales Data.xlsx**
+- **Messy Sales Data File.xlsx**
 
 Use these files to improve skills in:
 - Removing structural issues
